@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "WiFiber Tv",
+      "host": "http://161.132.41.174",
+      "port": 80
+    }
+  ]
+}
