@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "WiFiber Tv",
+      "name": "Lumyplay Tv",
       "protocol": "http",
       "host": "161.132.41.174",
       "port": 80,
